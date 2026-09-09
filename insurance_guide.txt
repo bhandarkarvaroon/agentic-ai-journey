@@ -1,0 +1,20 @@
+Insurance is a contract between a policyholder and an insurer.
+A premium is the amount paid periodically to keep the policy active.
+A deductible is the amount the policyholder pays before insurance covers the rest.
+Collision coverage pays for damage to your vehicle from an accident.
+Comprehensive coverage pays for theft, weather damage, and other non-collision events.
+Liability coverage pays for damage you cause to other people or property.
+A claim is a formal request to the insurer to pay for a covered loss.
+A beneficiary is the person designated to receive insurance benefits.
+An endorsement modifies the terms of an existing insurance policy.
+A rider provides additional coverage beyond the standard policy.
+Underwriting is the process of evaluating risk before issuing a policy.
+A grace period allows extra time to pay a premium after the due date.
+Coinsurance splits costs between the insurer and policyholder after the deductible.
+An out-of-pocket maximum caps the total amount a policyholder pays in a year.
+Gap insurance covers the difference between a car's value and the loan balance.
+A copay is a fixed fee paid at the time of a healthcare service.
+Subrogation allows the insurer to recover costs from a responsible third party.
+Reinsurance is when an insurer buys coverage from another insurer.
+An actuary uses statistics to calculate insurance risk and set premiums.
+Loss of use coverage pays for temporary housing if your home becomes uninhabitable.
